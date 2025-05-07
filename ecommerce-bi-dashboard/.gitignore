@@ -1,0 +1,11 @@
+# Python virtual environment
+venv/
+
+# macOS system files
+.DS_Store
+# Python cache files
+__pycache__/
+*.pyc
+
+#gitignore
+.gitignoredata/retail.db
