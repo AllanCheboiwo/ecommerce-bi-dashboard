@@ -9,15 +9,15 @@ This Tableau dashboard analyzes sales data from the Online Retail Dataset, provi
    - Opportunity: Expand marketing in high-potential markets like Germany.
    - **Screenshot**: ![Top Products](screenshots/salescountry.png)
 2. **Top Products**:
-    - Top products include "85123A" (WHITE HANGING HEART T-LIGHT HOLDER) and "84879" (ASSORTED COLOUR BIRD ORNAMENT), contributing ~15% of revenue.
+    - Top products include PAPER CRAFT, LITTLE BIRDIE and REGENCY CAKESTAND 3 TIER
     - Action: Increase stock or promotions for these products.
     - **Screenshot**: ![Top Products](screenshots/topproducts.png)
 3. **Sales Trends**:
-    - Sales peak in November 2011, likely due to holiday shopping (e.g., £500,000 in sales).
+    - Sales peak in November 2011, likely due to holiday shopping
     - Action: Plan inventory and campaigns for peak seasons.
     - **Screenshot**: ![Monthly Sales](screenshots/monthlysales.png)
 4. **Top Customers**:
-    - Customer IDs 17850 and 13047 are top spenders, contributing ~£20,000 in sales.
+    - Customer IDs 14646 and 18102 are top spenders, contributing ~£540,000 in sales.
     - Action: Target these customers with loyalty programs.
     - **Screenshot**: ![Top Customers](screenshots/topcustomers.png)
 
