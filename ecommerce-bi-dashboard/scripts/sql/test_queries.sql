@@ -13,7 +13,7 @@ FROM transactions t
 LEFT JOIN customers c ON t.customer_id = c.customer_id
 WHERE c.customer_id IS NULL;
 
--- Sample BI query: Total sales by country
+-- Total sales by country
 SELECT c.country, SUM(t.total_price) AS total_sales
 FROM transactions t
 JOIN customers c ON t.customer_id = c.customer_id
