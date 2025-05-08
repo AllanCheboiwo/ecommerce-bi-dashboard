@@ -1,4 +1,4 @@
-# E-Commerce BI Dashboard
+# E-Commerce Dashboard
 
 A Business Intelligence project analyzing online retail sales data using Python, SQL, and Tableau.
 
